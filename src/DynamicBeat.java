@@ -38,6 +38,7 @@ public class DynamicBeat extends JFrame {
 
 
 
+
     private Image background = new ImageIcon(Main.class.getResource("images/introBackground(title).jpg"))
             .getImage();
     private JLabel menuBar = new JLabel(new ImageIcon(Main.class.getResource("images/menuBar.png")));
@@ -54,6 +55,7 @@ public class DynamicBeat extends JFrame {
     private int mouseX, mouseY;
 
     private boolean isMainScreen = false;
+    private boolean isGameScreen = false;
 
     ArrayList<Track> trackList = new ArrayList<Track>();
 
@@ -62,6 +64,10 @@ public class DynamicBeat extends JFrame {
     private Image selectedImage;
     private Music introMusic = new Music("introMusic.mp3", true);
     private int nowSelected = 0;
+
+
+    public static Game game = new Game();
+
 
     public DynamicBeat(){
         setUndecorated(true);
@@ -74,6 +80,7 @@ public class DynamicBeat extends JFrame {
         setBackground(new Color(0, 0, 0, 0));
         setLayout(null);
 
+        addKeyListener(new KeyListener());
 
         introMusic.start();
 
@@ -315,15 +322,18 @@ public class DynamicBeat extends JFrame {
     public void paint (Graphics g){
         screenImages = createImage(Main.SCREEN_WIDTH, Main.SCREEN_HEIGHT);
         screenGraphics = screenImages.getGraphics();
-        screenDraw(screenGraphics);
+        screenDraw((Graphics2D) screenGraphics);
         g.drawImage(screenImages, 0, 0, null);
     }
 
-    public void screenDraw(Graphics g){
+    public void screenDraw(Graphics2D g){
         g.drawImage(background, 0, 0,null);
         if(isMainScreen){
             g.drawImage(selectedImage, 340, 100, null);
             g.drawImage(titleImage, 340, 70, null);
+        }
+        if(isGameScreen){
+            game.screenDraw(g);
         }
         paintComponents(g);
         this.repaint();
@@ -370,6 +380,8 @@ public class DynamicBeat extends JFrame {
         background = new ImageIcon(Main.class.getResource("images/" + trackList.get(nowSelected).getGameImage()))
                 .getImage();
         backButton.setVisible(true);
+        isGameScreen = true;
+        setFocusable(true);
     }
 
     public void backMain(){
@@ -381,6 +393,7 @@ public class DynamicBeat extends JFrame {
         background = new ImageIcon(Main.class.getResource("images/mainBackground.jpg")).getImage();
         backButton.setVisible(false);
         selectTrack(nowSelected);
+        isGameScreen = false;
     }
 
     public void enterMain(){

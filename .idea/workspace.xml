@@ -1,49 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="48f21ea4-1515-437b-b131-7faaca73a294" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jlayer-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicBeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Energy Game Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Energy Start Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Energy Title Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Mighty Love Game Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Mighty Love Start Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Mighty Love Title Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Wild Flower Game Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Wild Flower Start Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Wild Flower Title Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/backButtonBasic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/backButtonEntered.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/easyButtonBasic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/easyButtonEntered.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/hardButtonBasic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/hardButtonEntered.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/leftButtonBasic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/leftButtonEntered.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/mainBackground.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/quitButtonBasic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/quitButtonEntered.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/rightButtonBasic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/rightButtonEntered.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/startButtonBasic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/startButtonEntered.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Bensound - Energy.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Energy Selected.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Joakim Karud - Mighty Love.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Mighty Love Selected.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Wild Flower - Joakim Karud.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Wild Flower Selected.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KeyListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gameInfo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/judgementLine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/noteBasic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/noteRoute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/noteRouteLine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/noteRoutePressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/drumBig1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/drumBig2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/drumBig3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/drumSmall1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/drumSmall2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/drumSmall3.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamicBeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicBeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,18 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Foryoucom/IdeaProjects/Game/jlayer-1.0.1.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Foryoucom/IdeaProjects/Game/jlayer-1.0.1.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Foryoucom\IdeaProjects\Game\src\images" />
@@ -98,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670483031367</updated>
       <workItem from="1670483032508" duration="11456000" />
-      <workItem from="1670658416811" duration="119000" />
+      <workItem from="1670658416811" duration="3961000" />
     </task>
     <servers />
   </component>
