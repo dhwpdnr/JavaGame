@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48f21ea4-1515-437b-b131-7faaca73a294" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/KeyListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/gameInfo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/judgementLine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/noteBasic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/noteRoute.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/noteRouteLine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/noteRoutePressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/drumBig1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/drumBig2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/drumBig3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/drumSmall1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/drumSmall2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/drumSmall3.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DynamicBeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicBeat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Track.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Track.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/music/Wild Flower - Joakim Karud.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/Joakim Karud - Wild Flower.mp3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670483031367</updated>
       <workItem from="1670483032508" duration="11456000" />
-      <workItem from="1670658416811" duration="3961000" />
+      <workItem from="1670658416811" duration="5452000" />
     </task>
     <servers />
   </component>
