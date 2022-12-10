@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48f21ea4-1515-437b-b131-7faaca73a294" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jlayer-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicBeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Energy Game Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Energy Start Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Energy Title Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Mighty Love Game Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Mighty Love Start Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Mighty Love Title Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Wild Flower Game Image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Wild Flower Start Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Wild Flower Title Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/backButtonBasic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/backButtonEntered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/easyButtonBasic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/easyButtonEntered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/hardButtonBasic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/hardButtonEntered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/leftButtonBasic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/leftButtonEntered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/mainBackground.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/quitButtonBasic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/quitButtonEntered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/rightButtonBasic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/rightButtonEntered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/startButtonBasic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/startButtonEntered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/Bensound - Energy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/Energy Selected.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/Joakim Karud - Mighty Love.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/Mighty Love Selected.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/Wild Flower - Joakim Karud.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/music/Wild Flower Selected.mp3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IcZrEuZ49BCgpbITYx5O2k0ZSQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Foryoucom/IdeaProjects/Game/jlayer-1.0.1.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Foryoucom\IdeaProjects\Game\src\images" />
+      <recent name="C:\Users\Foryoucom\IdeaProjects\Game\src\music" />
+      <recent name="C:\Users\Foryoucom\IdeaProjects\Game\src" />
+      <recent name="C:\Users\Foryoucom\IdeaProjects\Game" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48f21ea4-1515-437b-b131-7faaca73a294" name="Changes" comment="" />
+      <created>1670483031367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670483031367</updated>
+      <workItem from="1670483032508" duration="11456000" />
+      <workItem from="1670658416811" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
