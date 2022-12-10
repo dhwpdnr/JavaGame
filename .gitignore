@@ -33,3 +33,7 @@ bin/
 *.png
 
 *.jpg
+
+/src/images
+
+/src/music
