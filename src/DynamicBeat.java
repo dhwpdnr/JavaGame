@@ -8,6 +8,12 @@ import java.util.ArrayList;
 
 public class DynamicBeat extends JFrame {
 
+    static JPanel img = new JPanel() {
+        Image background = new ImageIcon(Main.class.getResource("../images/introBackground2.jpeg")).getImage();
+        public void paint(Graphics g) {
+            g.drawImage(background,0,0,null);
+        }
+    };
 
     private Image screenImages;
     private Graphics screenGraphics;
@@ -67,7 +73,6 @@ public class DynamicBeat extends JFrame {
 
 
     public static Game game;
-
 
     public DynamicBeat(){
         setUndecorated(true);
@@ -414,3 +419,5 @@ public class DynamicBeat extends JFrame {
         selectTrack(0);
     }
 }
+
+
